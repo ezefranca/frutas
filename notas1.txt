@@ -1,0 +1,15 @@
+Eu gostaria de sugestões. Eu dei uma pesquisada e fiz um esquema de Pólya, mas tá feio. Parece coisa de preguiçoso, mas a ideia é otimizar. Gostaria de sugestões de heurísticas ou técnicas. Acho que é um problema discreto, mas sei lá.
+Enfim, agradeço.
+Algoritmo:
+Um algoritmo de otimização na compra de frutas. Ele tomaria decisão e me diria os melhores dias para comprar as melhores frutas, visando o melhor caso para o desperdício e o menor numero de idas ao estabelecimento comprar.
+Inputs:
+-> Lista de frutas
+-> Durabilidade de cada fruta (acabar)
+-> Durabilidade de cada fruta (estragar)
+-> Disponibilidade de de compra
+-> Oscilação de preço (função linear estimada)
+-> Fruta que substituiria 
+-> Dinheiro disponível
+-> ??
+Output
+-> Lista de compra com fruta(s)/dia(s)
