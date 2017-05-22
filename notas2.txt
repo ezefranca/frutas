@@ -1,0 +1,3 @@
+Caso exista uma modelagem decente de cada fruta, com estados totalmente discretos é possivel utilzar markov. 
+
+Pesquisar por "O modelo da alocação de tarefas".
